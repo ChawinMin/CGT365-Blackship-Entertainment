@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Blueprints/BP_Camera_Test.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Input/Actions/IA_Camera_Clockwise.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Input/Actions/IA_Camera.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Input/Actions/IA_Camera_Counter.uasset",
 				"C:/Users/cim09/Downloads/01_School/Fall2025/CGT365-Blackship-Entertainment/CullofCthulu/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
