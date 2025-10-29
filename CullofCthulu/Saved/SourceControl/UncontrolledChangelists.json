@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Input/Actions/IA_Zoom.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ajash/Desktop/Purdue/365/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Blueprints/BP_Ship.uasset",
 				"C:/Users/noaht/Github215/21500/CGT365-Blackship-Entertainment/CullofCthulu/Content/ThirdPerson/Blueprints/BP_Ship.uasset",
 				"C:/Users/noaht/Github215/21500/CGT365-Blackship-Entertainment/CullofCthulu/Content/Blueprints/Cannon_ball.uasset",
 				"C:/Users/noaht/Github215/21500/CGT365-Blackship-Entertainment/CullofCthulu/Content/Blueprints/Cannon/blinn1SG.uasset",
