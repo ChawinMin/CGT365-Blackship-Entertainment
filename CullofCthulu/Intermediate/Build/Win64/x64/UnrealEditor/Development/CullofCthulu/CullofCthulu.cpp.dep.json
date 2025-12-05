@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ajjon\\onedrive\\documents\\github\\cgt365-blackship-entertainment\\cullofcthulu\\source\\cullofcthulu\\cullofcthulu.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ajjon\\onedrive\\documents\\github\\cgt365-blackship-entertainment\\cullofcthulu\\intermediate\\build\\win64\\x64\\cullofcthulueditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\ajjon\\onedrive\\documents\\github\\cgt365-blackship-entertainment\\cullofcthulu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cullofcthulu\\definitions.cullofcthulu.h",
+            "c:\\users\\ajjon\\onedrive\\documents\\github\\cgt365-blackship-entertainment\\cullofcthulu\\source\\cullofcthulu\\cullofcthulu.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

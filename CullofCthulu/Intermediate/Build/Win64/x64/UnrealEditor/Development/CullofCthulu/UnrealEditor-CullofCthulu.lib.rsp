@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CullofCthulu.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.gen.cpp.obj"
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\CullofCthulu.init.gen.cpp.obj"
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.obj"
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\CullofCthulu.cpp.obj"
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\PerModuleInline.gen.cpp.obj"
+"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\Default.rc2.res"
+/OUT:"C:\Users\ajjon\OneDrive\Documents\GitHub\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\UnrealEditor-CullofCthulu.lib"
