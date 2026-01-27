@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CullofCthulu",
+			"Path": "..\\Source\\CullofCthulu.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CullofCthuluEditor",
+			"Path": "..\\Source\\CullofCthuluEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
