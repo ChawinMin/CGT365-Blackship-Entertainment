@@ -285,8 +285,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\UnrealEditor\Inc\CullofCthulu\UHT"
-/I "C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Source"
+/I "D:\CullofCthulhu\Repository\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\UnrealEditor\Inc\CullofCthulu\UHT"
+/I "D:\CullofCthulhu\Repository\CGT365-Blackship-Entertainment\CullofCthulu\Source"
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"

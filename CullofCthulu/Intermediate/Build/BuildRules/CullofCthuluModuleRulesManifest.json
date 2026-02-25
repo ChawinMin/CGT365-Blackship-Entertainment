@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\ajash\\Desktop\\Purdue\\365\\CGT365-Blackship-Entertainment\\CullofCthulu\\Source\\CullofCthulu\\CullofCthulu.Build.cs",
-		"C:\\Users\\ajash\\Desktop\\Purdue\\365\\CGT365-Blackship-Entertainment\\CullofCthulu\\Source\\CullofCthulu.Target.cs",
-		"C:\\Users\\ajash\\Desktop\\Purdue\\365\\CGT365-Blackship-Entertainment\\CullofCthulu\\Source\\CullofCthuluEditor.Target.cs"
+		"D:\\CullofCthulhu\\Repository\\CGT365-Blackship-Entertainment\\CullofCthulu\\Source\\CullofCthulu\\CullofCthulu.Build.cs",
+		"D:\\CullofCthulhu\\Repository\\CGT365-Blackship-Entertainment\\CullofCthulu\\Source\\CullofCthulu.Target.cs",
+		"D:\\CullofCthulhu\\Repository\\CGT365-Blackship-Entertainment\\CullofCthulu\\Source\\CullofCthuluEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }
