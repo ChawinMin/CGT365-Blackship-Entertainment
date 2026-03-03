@@ -1,12 +1,12 @@
-"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Source\CullofCthulu\BP_Cannon.cpp"
-/FI"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\Definitions.CullofCthulu.h"
-/Yu"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.obj"
-/experimental:log "C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.sarif"
-/sourceDependencies "C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.dep.json"
-@"C:\BLACKSHIP ENTERTAINMENT COC\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\CullofCthulu.Shared.rsp"
+"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Source\CullofCthulu\BP_Cannon.cpp"
+/FI"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\Definitions.CullofCthulu.h"
+/Yu"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\CullofCthuluEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.obj"
+/experimental:log "C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.sarif"
+/sourceDependencies "C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\BP_Cannon.cpp.dep.json"
+@"C:\Users\ajash\Desktop\Purdue\365\CGT365-Blackship-Entertainment\CullofCthulu\Intermediate\Build\Win64\x64\UnrealEditor\Development\CullofCthulu\CullofCthulu.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
